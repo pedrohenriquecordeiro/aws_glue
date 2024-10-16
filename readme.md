@@ -12,3 +12,9 @@ Here are the main components of AWS Glue:
 AWS Glue is widely used to build modern data pipelines, clean and enrich data, and make it ready for data analysis or machine learning processes. It integrates well with other AWS services like Amazon Redshift, S3, Athena, and others.
 
 Does this explanation align with what you were looking for?
+
+
+## Project Repo
+
+![image](https://github.com/user-attachments/assets/16f7ffcd-7c7a-4ed6-9592-2a1ba4ea79ad)
+
