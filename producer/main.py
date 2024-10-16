@@ -26,7 +26,7 @@ s3 = boto3.client(
 bucket_name = 'landing-phcj'
 s3_folder = 'data/'  # Optional, if you want to upload to a specific folder
 
-
+# methods : https://gist.github.com/digitalashes/185133cd833d78cbc74e9090e10b57d2
 fake = Faker()
 
 def generate_random_string(length):
