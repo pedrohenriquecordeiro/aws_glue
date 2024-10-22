@@ -55,7 +55,8 @@ def generate_random_data():
     for i in range( 0 , lenght_random ):
         data.append(
             {
-                'id_': generate_random_numeric_string(50),
+                'id_': generate_random_numeric_string(20),
+                'id_class': random.randint(1, 5),
                 'name': fake.name(),
                 'city' : fake.city(),
                 'phone_number' : fake.basic_phone_number(),
